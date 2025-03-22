@@ -1,0 +1,2 @@
+|-- bank loan power BI project.pbix
+|-- financial_loan.csv
